@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1mQyIoD7efOSqW2mWuN8ZZawX3z7GkGqCpDYqCv01vl89I5KSHIdHPjL31s5Q9O7vyvdIGAYFj44spe2IqzkeA==",
+  "dgSpecHash": "LYKhVmT5F3zQXyaismHVj5YOfok+R74lShX2tpJ2zmg7CWnara45EKvGNMfs6gLlaOlRc7LEuVUal5T91ChnSA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jw110\\CodeLou\\Projects\\PetShop1\\PetShop1\\PetShop1.csproj",
+  "projectFilePath": "C:\\Users\\jw110\\CodeLou\\Projects\\PetShop1\\PetShop1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jw110\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.24\\microsoft.windowsdesktop.app.ref.6.0.24.nupkg.sha512",
     "C:\\Users\\jw110\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.24\\microsoft.netcore.app.ref.6.0.24.nupkg.sha512",
